@@ -26,24 +26,24 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-![Home Page (Light Mode)](<Screenshot 2024-06-08 000110.png>)
+![Home Page (Light Mode)](https://github.com/rajgharat07/API-Handling-With-JavaScript/blob/main/assests/Screenshot%202024-06-08%20000110.png)
 
-![Home Page (Dark Mode)](<Screenshot 2024-06-08 000137.png>)
+![Home Page (Dark Mode)](https://github.com/rajgharat07/API-Handling-With-JavaScript/blob/main/assests/Screenshot%202024-06-08%20000137.png)
 
-![Filtered By Region](<Screenshot 2024-06-08 000240.png>)
+![Filtered By Region](https://github.com/rajgharat07/API-Handling-With-JavaScript/blob/main/assests/Screenshot%202024-06-08%20000200.png)
 
-![Searched By India](<Screenshot 2024-06-08 000200.png>)
+![Searched By India](https://github.com/rajgharat07/API-Handling-With-JavaScript/blob/main/assests/Screenshot%202024-06-08%20000240.png)
 
-![India Specific Page (Light Mode)](<Screenshot 2024-06-08 000259.png>)
+![India Specific Page (Light Mode)](https://github.com/rajgharat07/API-Handling-With-JavaScript/blob/main/assests/Screenshot%202024-06-08%20000259.png)
 
-![India Specific Page (Dark Mode)](<Screenshot 2024-06-08 000316.png>)
+![India Specific Page (Dark Mode)](https://github.com/rajgharat07/API-Handling-With-JavaScript/blob/main/assests/Screenshot%202024-06-08%20000259.png)
 
-![China Specific Page (Light Mode)](<Screenshot 2024-06-08 000345.png>)
+![China Specific Page (Light Mode)](https://github.com/rajgharat07/API-Handling-With-JavaScript/blob/main/assests/Screenshot%202024-06-08%20000345.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/rajgharat07/API-Handling-With-JavaScript)
+- Live Site URL: [Click here to check Demo](https://rajgharat07.github.io/API-Handling-With-JavaScript/)
 
 ## My process
 
